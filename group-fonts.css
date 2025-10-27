@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'circe';
-    src: url('circe_extra_bold-webfont.woff') format('woff');
+    src: url('circe_extra_bold-webfont.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
 
@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: 'helveticaneuecyr';
-    src: url('helveticaneuecyr-webfont.woff') format('woff');
+    src: url('helveticaneuecyr-webfont.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 
